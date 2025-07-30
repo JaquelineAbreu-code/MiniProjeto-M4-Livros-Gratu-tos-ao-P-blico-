@@ -1,7 +1,7 @@
 {
   "name": "miniprojeto-m4",
   "version": "1.0.0",
-  "description": "API de interesse público para educação a partir de livros disponíveis gratuítament",
+  "description": "API de interesse público para educação a partir de livros disponíveis gratuítamente",
   "license": "ISC",
   "author": "Jaqueline Abreu",
   "type": "commonjs",
